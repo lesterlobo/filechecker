@@ -6,7 +6,7 @@
 #   3. Once these 2 files are stored in <machine-agent>/monitors/filechecker folder, restart Machine agent service
 # The following metrics will be collected in addition to the default OS Linux metrics
 #
-#        CPU|Processor_Queue_Lengt
+#        Custom Metrics|FileChecker|$file|Available
 # Created - 07/18/2024
 
 
